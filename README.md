@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker,Jenkins,CS50x**
 
-- 👨‍💻 All of my projects are available at [https://ramzi-km.github.io/Personal-site/](https://ramzi-km.github.io/Personal-site/)
+- 👨‍💻 All of my projects are available at [https://www.ramzikm.site/](https://www.ramzikm.site/)
 
 - 💬 Ask me about **MEAN**
 
