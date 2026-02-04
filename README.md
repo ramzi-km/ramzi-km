@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ramzikm" target="blank"><img src="https://img.shields.io/twitter/follow/ramzikm?logo=twitter&style=for-the-badge" alt="ramzikm" /></a> </p>
 
-- 🔭 I’m currently working on [password manager](https://github.com/ramzi-km/Password-manager)
+- 🌱 I’m currently learning **Docker,Jenkinsx, Kubernetes**
 
-- 🌱 I’m currently learning **Docker,Jenkins,CS50x**
-
-- 👨‍💻 All of my projects are available at [https://www.ramzikm.site/](https://www.ramzikm.site/)
+- 👨‍💻 All of my projects are available at [https://www.ramzikm.site/](https://www.ramzikm.in/)
 
 - 💬 Ask me about **MEAN**
 
