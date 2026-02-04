@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker,Jenkinsx, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://www.ramzikm.site/](https://www.ramzikm.in/)
+- 👨‍💻 All of my projects are available at [https://www.ramzi.in/](https://www.ramzi.in/)
 
 - 💬 Ask me about **MEAN**
 
